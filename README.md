@@ -9,6 +9,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: 
 
 ## Fork urls
-- `contributor-1`: 
+- `contributor-1`: https://github.com/ArmandColonnaW/quotes-soave-c
 - `contributor-2`: 
 - `contributor-3`: 
