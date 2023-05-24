@@ -4,7 +4,7 @@ A python program that generates programming quotes and jokes.
 
 ## Contributors
 - `initiator`: SOAVE Raphaël Groupe C
-- `contributor-1`: 
+- `contributor-1`: COLONNA WALEWSKI Armand Groupe C
 - `contributor-2`: 
 - `contributor-3`: 
 
